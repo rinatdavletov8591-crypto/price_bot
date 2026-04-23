@@ -4,3 +4,5 @@ beautifulsoup4==4.12.3
 selenium==4.16.0
 python-dotenv==1.0.0
 webdriver-manager==4.0.1
+Flask==2.3.3
+gunicorn==21.2.0
